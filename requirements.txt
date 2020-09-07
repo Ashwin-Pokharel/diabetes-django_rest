@@ -1,0 +1,15 @@
+asgiref==3.2.10
+cffi==1.14.2
+cryptography==3.0
+Django==3.1
+django-rest==0.8.6
+django-rest-knox==4.1.0
+django-templated-mail==1.1.1
+djangorestframework==3.11.1
+djoser==2.0.3
+psycopg2==2.8.5
+pycparser==2.20
+python-decouple==3.3
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
